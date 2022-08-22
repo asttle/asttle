@@ -3,8 +3,8 @@
 <img width=”200" height=”200" src=”https://user-images.githubusercontent.com/64640283/185868204-9da3ec10-aedc-42a7-9964-b825046806f6.png" alt=”my banner”>
 
 </p>
-                                                                                                                                         
-                                                                                                                                         <h3 align="center">
+                                                                                                                                        
+<h3 align="center">
 Hi there, I'm <a href="https://asttle.github.io/" target="_blank" rel="noreferrer">Asttle</a> 👋
 </h3>
 
