@@ -38,6 +38,7 @@ I love the entire process of developing creative websites
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
 ![](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
+![](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
 
 </br>
 
