@@ -2,7 +2,8 @@
                                                                                                                                          
                                                                                                                                          
 <p align="center">
-  <a href="https://asttle.github.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64640283/185868204-9da3ec10-aedc-42a7-9964-b825046806f6.png" alt="my banner"></a>
+  <a href="https://asttle.github.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com![Untitled design (3)](https://github.com/asttle/asttle/assets/64640283/5c4927a9-f583-4cd6-b74c-e602aa065805)
+/64640283/185868204-9da3ec10-aedc-42a7-9964-b825046806f6.png" alt="my banner"></a>
 </p>                                                                                                                       
                                                                                                                                         
 <h3 align="center">
