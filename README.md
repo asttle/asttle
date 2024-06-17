@@ -33,6 +33,37 @@ I love the entire process of working on Cloud, IaC, CI/CD, Containerisation, Con
 
 ## 💼 Technical Skills
 
+## DevOps Engineer
+
+![Amazon Web Services (AWS)](https://img.shields.io/badge/-Amazon%20Web%20Services%20(AWS)-orange)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-blue)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue)
+![Docker](https://img.shields.io/badge/-docker-blue)
+![Terraform](https://img.shields.io/badge/-Terraform-purple)
+![AWS CloudFormation](https://img.shields.io/badge/-AWS%20CloudFormation-orange)
+![Azure Resource Manager Templates](https://img.shields.io/badge/-Azure%20Resource%20Manager%20Templates-blue)
+![Continuous Integration and Continuous Delivery (CI/CD)](https://img.shields.io/badge/-Continuous%20Integration%20and%20Continuous%20Delivery%20(CI%2FCD)-yellowgreen)
+![Jenkins](https://img.shields.io/badge/-Jenkins-red)
+![Github Actions](https://img.shields.io/badge/-Github%20Actions-lightgrey)
+![Azure DevOps Services](https://img.shields.io/badge/-Azure%20DevOps%20Services-blue)
+![Loki](https://img.shields.io/badge/-Loki-brightgreen)
+![Prometheus.io](https://img.shields.io/badge/-Prometheus.io-brightgreen)
+![Grafana](https://img.shields.io/badge/-Grafana-orange)
+![Python (Programming Language)](https://img.shields.io/badge/-Python%20(Programming%20Language)-blue)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-orange)
+![Serverless Computing](https://img.shields.io/badge/-Serverless%20Computing-lightgrey)
+![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-black)
+![Amazon EKS](https://img.shields.io/badge/-Amazon%20EKS-orange)
+![Karpenter](https://img.shields.io/badge/-Karpenter-lightgrey)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-blue)
+![Istio](https://img.shields.io/badge/-Istio-lightgrey)
+![HashiCorp Vault](https://img.shields.io/badge/-HashiCorp%20Vault-black)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-orange)
+![EFS](https://img.shields.io/badge/-EFS-orange)
+
+
+## Web Developer
+
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
