@@ -10,10 +10,10 @@ Hi there, I'm <a href="https://asttle.github.io/" target="_blank" rel="noreferre
 </h3>
 
 <h2 align="center">
-I'm a Frontend Developer 💻
+I'm a DevOps Engineer 💻
 </h2> 
 
-I love the entire process of developing creative websites
+I love the entire process of working on Cloud, IaC, CI/CD, Containerisation, Configuration management, monitoring and logging
 
 ### 🤝 Connect with me:
 
@@ -21,13 +21,16 @@ I love the entire process of developing creative websites
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
+[![An image of @asttle's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asttle)](https://holopin.io/@asttle)
+
+
 ## 🔭 I'm currently working on
 
-- React Native
+- AWS
 
 ## 🌱 I'm currently learning
 
-- AWS
+- Azure
 
 ## 💼 Technical Skills
 
