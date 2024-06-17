@@ -19,14 +19,13 @@ I love the entire process of working on Cloud, IaC, CI/CD, Containerisation, Con
 
 <a href="https://www.linkedin.com/in/asttle-joseph-858865145/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Asttle | LinkedIn" width="21px"/></a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 [![An image of @asttle's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asttle)](https://holopin.io/@asttle)
 
 
 ## 🔭 I'm currently working on
 
-- AWS
+- Cloud (AWS), IaC(Terraform, Cloudformation, ARM templates), Config management (Ansible), CI/CD(Jenkins, Github Actions, Azure DevOps), Logging(ELK, Loki), Monitoring (Prometheus, Grafana), Programming (Python (lambda scripts - serverless), JS, TypeScript)
 
 ## 🌱 I'm currently learning
 
