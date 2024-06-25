@@ -28,14 +28,16 @@ I love the entire process of working on Cloud, IaC, CI/CD, Containerisation, Con
 </br>
 </div>
 
-## Badges
 
-[![An image of @asttle's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asttle)](https://holopin.io/@asttle)
 
 
 ## 🔭 I'm currently working on
 
 - Cloud (AWS), IaC(Terraform, Cloudformation, ARM templates), Config management (Ansible), CI/CD(Jenkins, Github Actions, Azure DevOps), Logging(ELK, Loki), Monitoring (Prometheus, Grafana), Programming (Python (lambda scripts - serverless), JS, TypeScript)
+
+## Badges
+
+[![An image of @asttle's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asttle)](https://holopin.io/@asttle)
 
 ## 🌱 I'm currently learning
 
