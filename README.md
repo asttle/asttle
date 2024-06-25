@@ -20,6 +20,12 @@ I love the entire process of working on Cloud, IaC, CI/CD, Containerisation, Con
 <a href="https://www.linkedin.com/in/asttle-joseph-858865145/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Asttle | LinkedIn" width="21px"/></a>
 </br>
 
+# Certifications
+<a href="https://www.credly.com/earner/earned/badge/4312321b-f3a7-4a25-b663-6f9df11475d1"><img align="left" src="https://github.com/asttle/asttle/assets/64640283/bb32a58e-d391-4ae0-a417-e1cdf7759b24" alt="Asttle | AWS Badge" width="21px"/></a>
+</br>
+<a href="https://www.credly.com/earner/earned/badge/04f2c888-bb12-4a57-9872-3bef2f6cc328"><img align="left" src="https://github.com/asttle/asttle/assets/64640283/bf0afa59-5d62-48c5-af6f-5abbaa2cd9bb" alt="Asttle | LinkedIn" width="21px"/></a>
+</br>
+
 [![An image of @asttle's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asttle)](https://holopin.io/@asttle)
 
 
