@@ -41,7 +41,7 @@ I love the entire process of working on Cloud, IaC, CI/CD, Containerisation, Con
 
 ##  I'm currently learning
 
-- Azure
+- Ansible
 
 ## 💼 Technical Skills
 
